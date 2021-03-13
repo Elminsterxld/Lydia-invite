@@ -1,11 +1,11 @@
 # Lydia-invite
 
-Lydia İnvite Sistemi
+_Lydia İnvite Sistemi_
 
-#Lydia Davet Sistemidir
+# Lydia Davet Sistemidir
 
-#Tamamı Ayarlamalı Ve V12 Ye Benim Tarafımdan Dömüştürüldü!
+# Tamamı Ayarlamalı Ve V12 Ye Benim Tarafımdan Dömüştürüldü!
 
-#Umarım İyi Şekilde Kullanırsınız!
+# Umarım İyi Şekilde Kullanırsınız!
 
 :link: [ERU Code Share](https://discord.gg/yZwCysdKE8)
