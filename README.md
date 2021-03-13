@@ -4,7 +4,7 @@ _Lydia İnvite Sistemi_
 
 # Lydia Davet Sistemidir
 
-# Tamamı Ayarlamalı Ve V12 Ye Benim Tarafımdan Dömüştürüldü!
+# Tamamı Ayarlamalıdır!
 
 # Umarım İyi Şekilde Kullanırsınız!
 
