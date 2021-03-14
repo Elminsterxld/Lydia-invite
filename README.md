@@ -9,7 +9,7 @@ _Lydia İnvite Sistemi_
 # Umarım İyi Şekilde Kullanırsınız!
 
 :link: [ERU Code Share](https://discord.gg/yZwCysdKE8)
-> Özellikler :
+> Özellikler : \n
 > Giriş-Çıkış Kanalı Ayarlama
 > Hoşgeldin-Görüşürüz Mesajı Ayarlama
 > Davet Ekleme-Davet Silme
