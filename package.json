@@ -1,0 +1,38 @@
+{
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "version": "0.0.1",
+  "description": "discord.js v12",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "quick.db": "^7.1.1",
+    "moment": "^2.26.0",
+    "chalk": "^4.1.0",
+    "jimp": "^0.13.0",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "ms": "^2.1.2",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^3.1.1",
+    "mathjs": "^9.2.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://nothing--.glitch.me/"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "v12",
+    "*The-HellCat",
+    "express"
+  ]
+}
